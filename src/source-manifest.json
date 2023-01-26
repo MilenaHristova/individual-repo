@@ -19,12 +19,6 @@
       "commitSha": "8374d5fca634a93458c84414b1604c12f765d1ab"
     },
     {
-      "packageVersion": "1.0.0-preview5.1.22263.1",
-      "path": "deployment-tools",
-      "remoteUri": "https://github.com/dotnet/deployment-tools",
-      "commitSha": "c3ad00ae84489071080a606f6a8e43c9a91a5cc2"
-    },
-    {
       "packageVersion": "6.0.0-preview.22424.1",
       "path": "diagnostics",
       "remoteUri": "https://github.com/dotnet/diagnostics",
