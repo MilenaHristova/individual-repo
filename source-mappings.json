@@ -112,10 +112,6 @@
             ]
         },
         {
-            "name": "razor",
-            "defaultRemote": "https://github.com/dotnet/razor"
-        },
-        {
             "name": "roslyn",
             "defaultRemote": "https://github.com/dotnet/roslyn"
         },
