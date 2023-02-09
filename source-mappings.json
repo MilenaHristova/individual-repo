@@ -172,6 +172,10 @@
             "defaultRemote": "https://github.com/dotnet/test-templates"
         },
         {
+            "name": "testrepo",
+            "defaultRemote": "https://github.com/MilenaHristova/individual-repo"
+        },
+        {
             "name": "vstest",
             "defaultRemote": "https://github.com/microsoft/vstest"
         },
