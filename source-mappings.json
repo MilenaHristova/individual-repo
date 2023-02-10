@@ -55,15 +55,6 @@
             "defaultRemote": "https://github.com/dotnet/arcade"
         },
         {
-            "name": "aspnetcore",
-            "defaultRemote": "https://github.com/dotnet/aspnetcore",
-            "exclude": [
-                "src/submodules/MessagePack-CSharp/**/*.dll",
-                "**/samples/**/jquery-validation-unobtrusive/.bower.json",
-                "**/samples/**/jquery-validation-unobtrusive/*.js"
-            ]
-        },
-        {
             "name": "cecil",
             "defaultRemote": "https://github.com/dotnet/cecil"
         },
